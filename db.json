@@ -1,0 +1,51 @@
+{
+"locations":
+ {
+    "Goa":{  
+    "name": "Goa",
+    "services":
+    {
+      "Restaurants":
+      {
+        "Restaurants":"Amigo's Pure Veg Restaurant"
+        },
+      "Grocery Stores":
+      {
+      "Grocery Stores":"Hello Grocery"
+    },
+      "Bakes and Cafe":
+      {
+        "Bakes and Cafe":"Foodking(BITS Pilani Goa Campus)"
+    }
+  }
+},
+"Palakkad":{
+    "name": "Palakkad",
+    "services":
+    {
+      "Restaurants":
+      {
+        "Restaurants":"365 Fine Dine"
+        },
+      "Bakes and Cafe":
+      {
+      "Bakes and Cafe":"Amul Icecream Parlour"
+    }
+  }
+},
+"Trivandrum":{
+"name":"Trivandrum",
+    "services":
+    {
+      "Grocery Stores":
+      {
+        "Grocery Stores":"Seven Ten"
+        },
+      "Bakes and Cafe":
+      {
+      "Bakes and Cafe":"MRA Bakery"
+    }
+  }
+}
+}
+}
