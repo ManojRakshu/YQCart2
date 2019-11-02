@@ -1,6 +1,5 @@
 var result,e,l,s;
 var firebaseConfig = {
-    apiKey: "AIzaSyBs7znPU6BV-oDCtxqAw-bOAkWTrRGs7OE",
     authDomain: "yqcart-552cb.firebaseapp.com",
     databaseURL: "https://yqcart-552cb.firebaseio.com",
     projectId: "yqcart-552cb",
